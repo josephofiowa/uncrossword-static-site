@@ -1,4 +1,4 @@
-# Uncrossword
+# Uncrossword.com
 
 Build a (web)app that enables users to get hints and solutions for IRL crosswords.
 
@@ -6,7 +6,7 @@ Build a (web)app that enables users to get hints and solutions for IRL crossword
 
 Something like this:
 
-1. Snap a photo of your cross word and the hint
+1. Snap a photo of your crossword and the hint
 2. Click (or tap) the place where you'd like feedback 
 3. Get a hint or provided solution
 
